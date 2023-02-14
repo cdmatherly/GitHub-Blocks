@@ -1,0 +1,36 @@
+.big-container {
+    display: flex;
+    justify-content: center;
+}
+.container {
+    background-color: darkslategrey;
+    width: 800px;
+    padding: 0.1%;
+}
+.heading {
+    text-align: center;
+    color: aliceblue;
+    font-size: 1.3em;
+}
+.top {
+    background-color: blanchedalmond;
+    justify-content: space-evenly;
+    display: flex;
+    margin: 1%;
+}
+.middle {
+    background-color: lightslategray;
+    justify-content: space-evenly;
+    display: flex;
+    margin: 1%;
+}
+.bottom {
+    background-color: lavender;
+    justify-content: space-evenly;
+    display: flex;
+    margin: 1%;
+}
+img {
+    height: 200px;
+    margin: 2%;
+}
