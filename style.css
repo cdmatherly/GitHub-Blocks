@@ -12,23 +12,19 @@
     color: aliceblue;
     font-size: 1.3em;
 }
-.top {
-    background-color: blanchedalmond;
+.box {
     justify-content: space-evenly;
     display: flex;
     margin: 1%;
+}
+.top {
+    background-color: blanchedalmond;
 }
 .middle {
     background-color: lightslategray;
-    justify-content: space-evenly;
-    display: flex;
-    margin: 1%;
 }
 .bottom {
     background-color: lavender;
-    justify-content: space-evenly;
-    display: flex;
-    margin: 1%;
 }
 img {
     height: 200px;
